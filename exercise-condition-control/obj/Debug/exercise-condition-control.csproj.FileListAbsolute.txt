@@ -1,0 +1,6 @@
+F:\C#\exercise-condition-control\exercise-condition-control\bin\Debug\exercise-condition-control.exe.config
+F:\C#\exercise-condition-control\exercise-condition-control\bin\Debug\exercise-condition-control.exe
+F:\C#\exercise-condition-control\exercise-condition-control\bin\Debug\exercise-condition-control.pdb
+F:\C#\exercise-condition-control\exercise-condition-control\obj\Debug\exercise-condition-control.csprojAssemblyReference.cache
+F:\C#\exercise-condition-control\exercise-condition-control\obj\Debug\exercise-condition-control.exe
+F:\C#\exercise-condition-control\exercise-condition-control\obj\Debug\exercise-condition-control.pdb
